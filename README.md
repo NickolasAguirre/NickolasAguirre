@@ -13,13 +13,12 @@ Soy un programador full stack de Perú
 - 💻 Web Developer
 - 👨‍🎓 IDAT graduate
 - 🔭 I am currently working on [Fixa digital](https://fixa.digital/)
-- 📫 How to contact me: **nickolasaguirreknox@gmail.com**
+- 📫 Contact me through my gmail **nickolasaguirreknox@gmail.com**
+- 📫 You can contact me through my linkedIn (https://www.linkedin.com/in/nickolas-aguirre-biminchumo-a0b300267/)
 
 [Ver en Google Drive](https://drive.google.com/file/d/1MwVlWPqIE4ffPkTYwjuaaW1vgJ6MRsOC/view)
 
-## Conéctate conmigo:
-
-<a href="https://www.linkedin.com/in/nickolas-aguirre-biminchumo-a0b300267/"><img  alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a>
+## Habilidades tecnicas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nickolasaguirre&show_icons=true&locale=en&layout=compact)
 
