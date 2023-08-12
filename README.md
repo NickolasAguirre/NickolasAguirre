@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hola 👋, soy Nickolas Aguirre
 
-Soy un programador full stack de Perú y apasionado por React
+Soy un programador full stack de Perú
+
+</div>
 
 ![Logo](https://i.ibb.co/9bnHHfZ/Logo-1.png)
 
@@ -15,7 +19,7 @@ Soy un programador full stack de Perú y apasionado por React
 
 ## Conéctate conmigo:
 
-[<img align="left" alt="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/nickolas-aguirre-biminchumo)
+<a href="https://linkedin.com/in/nickolas-aguirre-biminchumo"><img  alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nickolasaguirre&show_icons=true&locale=en&layout=compact)
 
