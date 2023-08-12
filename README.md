@@ -20,12 +20,13 @@ I am a full stack programmer from Peru
 
 <div align="center">
 
-<img src="https://img.freepik.com/iconos-gratis/serpientes_318-368381.jpg" alt="Python" width="100px">
-<img src="https://v5c2e8r4.stackpathcdn.com/wp-content/uploads/2014/09/mysql-logo.jpg" alt="MySQL" width="100px">
-<img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" alt="Java" width="100px">
-<img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="C#" width="100px">
+<img src="https://img.freepik.com/iconos-gratis/serpientes_318-368381.jpg" alt="Python" width="50px" height="50px">
+<img src="https://v5c2e8r4.stackpathcdn.com/wp-content/uploads/2014/09/mysql-logo.jpg" alt="MySQL" width="50px" height="50px">
+<img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" alt="Java" width="50px" height="50px">
+<img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="C#" width="50px" height="50px">
 
 </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nickolasaguirre&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickolasaguirre&show_icons=true&locale=en)
