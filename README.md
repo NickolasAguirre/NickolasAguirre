@@ -15,7 +15,7 @@ Soy un programador full stack de Perú y apasionado por React
 
 ## Conéctate conmigo:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/nickolas-aguirre-biminchumo)
+[<img align="left" alt="LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://linkedin.com/in/nickolas-aguirre-biminchumo)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nickolasaguirre&show_icons=true&locale=en&layout=compact)
 
