@@ -19,7 +19,7 @@ Soy un programador full stack de Perú
 
 ## Conéctate conmigo:
 
-<a href="https://linkedin.com/in/nickolas-aguirre-biminchumo"><img  alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/nickolas-aguirre-biminchumo-a0b300267/"><img  alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nickolasaguirre&show_icons=true&locale=en&layout=compact)
 
