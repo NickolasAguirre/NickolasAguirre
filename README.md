@@ -40,6 +40,7 @@ I am a full stack programmer from Peru
 <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="PowerBi" width="40px" height="40px" style="border: 1px solid black; margin: 10px;">
 
 </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nickolasaguirre&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickolasaguirre&show_icons=true&locale=en)
