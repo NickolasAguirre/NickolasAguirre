@@ -15,8 +15,7 @@ I am a full stack programmer from Peru
 - 🔭 I am currently working on [Fixa digital](https://fixa.digital/)
 - 📫 Contact me through my gmail **nickolasaguirreknox@gmail.com**
 - 📫 You can contact me through my [LinkedIn](https://www.linkedin.com/in/nickolas-aguirre-biminchumo-a0b300267/)
-
-[Ver en Google Drive](https://drive.google.com/file/d/1MwVlWPqIE4ffPkTYwjuaaW1vgJ6MRsOC/view)
+- 📄 You can see my cv in depth [here](https://drive.google.com/file/d/1MwVlWPqIE4ffPkTYwjuaaW1vgJ6MRsOC/view)
 
 ## Technical skills:
 
